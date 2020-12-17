@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.exe
+C:\Users\DEV\Desktop\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.deps.json
+C:\Users\DEV\Desktop\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.runtimeconfig.json
+C:\Users\DEV\Desktop\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.dll
+C:\Users\DEV\Desktop\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.pdb
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.AssemblyInfo.cs
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.dll
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.pdb
+C:\Users\DEV\Desktop\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.genruntimeconfig.cache
